@@ -1,5 +1,5 @@
 #subtraction
 a = 10
 b=5
-sub = a-b
-print(sub)
+sub2 = a-b
+print(sub2)
